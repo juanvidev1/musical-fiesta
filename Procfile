@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/larocckola-0.0.1-SNAPSHOT.jar
+web: java -Dserver.port=$PORT -jar target/larockola-0.0.1-SNAPSHOT.jar
